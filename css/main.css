@@ -85,15 +85,11 @@ img {
 
 @media screen and (max-width: 600px)  {
   .half-width {
-    /* width: 600px; */
     width: 100%;
-    /* float: left; */
   }
 
   .third-width  {
-    /* width: 400px; */
     width: 100%;
-    /* float: left; */
   }
 
   /***** HEADER *****/
